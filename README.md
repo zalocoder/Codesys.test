@@ -1,8 +1,6 @@
 # Codesys.test
 
-Workspace for practicing Coesys and Control systems
+Workspace for practicing Codesys and Control systems
 
-
-
-
+ 
 
